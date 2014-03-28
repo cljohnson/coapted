@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>468e6070-9295-4d33-a190-0befd61688f3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PythonApplication3.py</StartupFile>
+    <StartupFile>process_word.py</StartupFile>
     <SearchPath>..\..\PythonApplication3</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -13,6 +13,7 @@
     <RootNamespace>PythonApplication3</RootNamespace>
     <InterpreterId>{2af0f10d-7135-4994-9156-5d01c9c11b7e}</InterpreterId>
     <InterpreterVersion>2.7</InterpreterVersion>
+    <IsWindowsApplication>True</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
